@@ -57,4 +57,5 @@ playRound();
 const result = playRound();
 console.log(result);
 // make the prompt = to player choice (done)
-//account for user to input paper and scissors
+//account for user to input paper and scissors(done)
+// tried for loops & while loops to get the game to replay after each round but still cant figure out how to do it properly, will update when done hopefully soon
